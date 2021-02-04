@@ -16,6 +16,7 @@ public class Dog
 		System.out.println(h.color);
 		Scanner sc=new Scanner(System.in);
 	String name1=sc.next();	
+	System.out.println("hello");
 	}
 
 }
