@@ -17,6 +17,7 @@ public class Dog
 		Scanner sc=new Scanner(System.in);
 	String name1=sc.next();	
 	System.out.println("hello");
+	System.out.println("hello1");
 	}
 
 }
